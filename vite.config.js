@@ -5,7 +5,8 @@ export default defineConfig({
     rollupOptions: {
       input: {
         index: './index.html',
-        qrcode: './qrcode.html'
+        qrcode: './pages/qrcode.html',
+        threejs: './pages/threejs.html'
       }
     }
   }
