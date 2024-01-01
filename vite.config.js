@@ -6,7 +6,8 @@ export default defineConfig({
       input: {
         index: './index.html',
         qrcode: './pages/qrcode.html',
-        threejs: './pages/threejs.html'
+        threejs: './pages/threejs.html',
+        ideas: './pages/ideas.html'
       }
     }
   }
